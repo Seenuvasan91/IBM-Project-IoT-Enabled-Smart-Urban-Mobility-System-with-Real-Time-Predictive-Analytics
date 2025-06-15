@@ -1,28 +1,11 @@
-# IoT-Enabled Smart Urban Mobility System with Real-Time Predictive Analytics
+# Sprint 03
 
-## Team Information
+## Signs with Smart Connectivity for Better Road Safety
 
-- **Team ID:** PNT2022TMID09351
+## Team ID - PNT2022TMID09351
 
----
-
-### **TEAM LEADER**  
-**SEENUVASAN V**  
-**ID:** 310619104122
-
----
-
-- **Member 1:** PRADEEP R (310619104313)
-- **Member 2:** SHRIRAAM B (310619104316)
-- **Member 3:** SESHADRI KS (310619104123)
-
-## Goals
-
-1. **Hardware & Cloud Integration**
-2. **UI/UX Optimization**
-
----
-
+### Sprint Goals :
+1. Hardware & Cloud integration
 
 #### Process Flow :
 ![processFlow](https://user-images.githubusercontent.com/85010264/201740568-a8f39c71-3600-4baf-860c-e53931efc78c.jpg)
@@ -180,19 +163,6 @@ return msg;
 **[Click on this link to change direction to Right](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/setDirection?uid=2504&dir=r)**
 
 ---
-4. **"Direction can be set by the Authorities"** in a separate ui created for them with **"MIT APP INVENTOR"** and the direction will be displayed in a display in the board
-connected with **"ESP32"** at the **"Wokwi Simulator"** which was connected with **"OpenWeatherMap API"** through **"Node-Red"**.
-
-#### MIT APP UI 
-![MIT APP UI FOR AUTHORITIES](https://user-images.githubusercontent.com/85010264/201990581-4dcd1870-79bf-4c5c-a8da-54c6ac5d9fe9.png)
-
-#### MIT APP BLOCK CODE : 
-![MIT APP BLOCK CODE FOR MANAGING TRAFFIC](https://user-images.githubusercontent.com/85010264/201990815-4fa26717-b82f-4d9f-83e1-1566823dc288.png)
-
-#### APK FILE :
-![IBMAPP.zip](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/10015096/IBMAPP.zip)
-
-**"EXTRACT THE ZIP FILE AND INSTALL THE APK FILE IN AN ANDROID PHONE TO CONTROL THE DIRECTIONS AS AUTHORITIES"**
 
 ### Wokwi Circuit :
 
@@ -371,24 +341,14 @@ void loop() {
 
 **[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348220756379828820)**
 
-OUTPUT1 
-ESP32 CIRCUIT 
-![ESP32 CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/85010264/201994051-e9782abe-8a82-4cdd-bd4a-d45df852e224.png)
+OUTPUT1![out](OUTPUT1.png)
 
+OUTPUT2![out](OUTPUT2.png)
 
-OUTPUT2 
-AUTHORITY GIVING TAKE STRAIGHT DIRECTION 
-![AUTHORITY GIVING TAKE STRAIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991392-3e5e5b5f-f4db-479a-926a-08d4c97b7abc.png)
+OUTPUT3![out](OUTPUT3.png)
 
-OUTPUT3 
-AUTHORITY GIVING TAKE RIGHT DIRECTION 
-![AUTHORITY GIVING TAKE RIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991604-fe280cf0-73ae-488d-9b91-fd1e0619164c.png)
+OUTPUT4![out](OUTPUT4.png)
 
-OUTPUT4 
-AUTHORITY GIVING TAKE LEFT DIRECTION 
-![AUTHORITY GIVING TAKE LEFT DIRECTION](https://user-images.githubusercontent.com/85010264/201991658-ff45e329-9444-4fe9-a6fd-6f497b32b2e1.png)
+OUTPUT5![out](OUTPUT5.png)
 
-
-
-
-### Thank You.
+### Thank You
